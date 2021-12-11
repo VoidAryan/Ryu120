@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [亗 ʀʏᴜ](https://t.me/Ryu_God) | [![Profile views](https://komarev.com/ghpvc/?username=Ryu120&label=Profile%20views)](https://github.com/Ryu120) 
 
-> `Website:` [亗 ʀʏᴜ](https://Ryu120.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
+> `Website:` [亗 ʀʏᴜ](https://Ryu120.github.io/) | [Komi](https://t.me/KomiXryu_Bot)<br>
  #### Contact me
 <!-- png icons from https://iconscout.com/ -->
 
