@@ -1,5 +1,6 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [亗 ʀʏᴜ](https://t.me/Ryu_God) | [![Profile views](https://komarev.com/ghpvc/?username=Ryu120&label=Profile%20views)](https://github.com/Ryu120) 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [亗 ʀʏᴜ](https://t.me/weeb_o) | [![Profile views](https://komarev.com/ghpvc/?username=Ryu120&label=Profile%20views)](https://github.com/Ryu120) 
 
+<a href="https://t.me/weeb_oo"><img alt="Cute Count" src="https://count.getloli.com/get/@:Ryu120?theme=gelbooru" /></a>
 
 > `Website:` [亗 ʀʏᴜ](https://Ryu120.github.io/) | [Komi](https://t.me/KomiXryu_Bot)<br>
  #### Contact me
